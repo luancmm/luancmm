@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="https://github.com/luancmm/luancmm/assets/87887476/1c52a0f1-c0a1-493e-a846-c54a0812198e" alt="raining-gif">
+<img src="https://github.com/luancmm/luancmm/assets/87887476/37f9e364-8760-4c62-af5a-b8d371dc7cc0" alt="raining-gif">
+
 
 <!--
 **luancmm/luancmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
