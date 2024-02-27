@@ -1,5 +1,7 @@
 ### Hi there 👋
-<img src="https://github.com/luancmm/luancmm/assets/87887476/37f9e364-8760-4c62-af5a-b8d371dc7cc0" alt="raining-gif" width="50%">
+<img src="https://github.com/luancmm/luancmm/assets/87887476/1d0d4baf-22aa-439f-ae9a-5f16eab941fb" alt="cat" >
+
+
 
 
 <!--
