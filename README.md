@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center"> ![jeweledqueen](https://github.com/luancmm/luancmm/assets/87887476/1c52a0f1-c0a1-493e-a846-c54a0812198e)</div>
+<img src="https://github.com/luancmm/luancmm/assets/87887476/1c52a0f1-c0a1-493e-a846-c54a0812198e" alt="raining-gif">
 
 <!--
 **luancmm/luancmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
